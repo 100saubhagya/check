@@ -1,1 +1,1 @@
-console.log("RAM RAHIM KA BADA KHEL");
+var a ="john doe"
